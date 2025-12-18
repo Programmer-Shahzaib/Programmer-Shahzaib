@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shahzaib 👋
 
-<!--
-**Programmer-Shahzaib/Programmer-Shahzaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student  
+🌐 Full-Stack Web Developer  
+💻 Building complete web applications  
+🤝 Open to internships and opportunities  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (Flask / Django)
+- Database: SQL / MongoDB
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Focus
+- Full-stack web development
+- Clean & scalable code
+- Real-world projects
+
+## What I Do
+- Develop full-stack web applications
+- Build REST APIs using Python
+- Integrate frontend with backend services
+
+📫 Contact: shahzaibbaig237@gmail.com
